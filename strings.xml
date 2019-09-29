@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ToDoList</string>
-    <string name="label_input_title">リストを追加</string>
-    <string name="hint_edit_text">テキストを入力</string>
-    <string name="resist">追加</string>
-</resources>
